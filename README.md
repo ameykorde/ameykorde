@@ -10,10 +10,24 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **1 year of professional experience** as a Software Developer  
-- 🧠 Strong fundamentals in backend and full-stack development  
-- 🛠 Experience building and maintaining real applications  
-- 🌱 Continuously learning and improving engineering skills  
+I’m a software developer focused on building and maintaining real-world applications using Java and modern web technologies. I enjoy backend-heavy work, writing clean APIs, and improving systems step by step.
+
+---
+
+### 🖥 Terminal
+
+~~~bash
+$ whoami
+💼 Software Developer
+🧠 Backend & full-stack fundamentals
+🛠 Java • React • Node.js
+🗄 PostgreSQL • MySQL • MongoDB
+🐧 Linux (basic usage)
+
+$ ping
+💻 GitHub: https://github.com/ameykorde
+📫 Email: ameykorde1@gmail.com
+~~~
 
 ---
 
