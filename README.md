@@ -12,7 +12,7 @@ I’m a software developer who enjoys building and maintaining real-world applic
 - 🧠 Backend & full-stack fundamentals  
 - 🛠 Java • React • Node.js  
 - 🗄 PostgreSQL • MySQL • MongoDB  
-- 🐧 Linux (basic usage)
+- 🐧 Linux
 
 ---
 
