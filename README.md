@@ -1,6 +1,6 @@
 <h1>Hello 👋</h1>
 
-I’m Amey Korde.
+I’m Amey Korde
 
 I’m a software developer who enjoys building and maintaining real-world applications using Java and modern web technologies. I like backend-heavy work, clean APIs, and improving systems step by step.
 
