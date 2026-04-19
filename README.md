@@ -7,7 +7,7 @@ I enjoy working close to the system level — from Linux environments to applica
 
 ---
 
-## ⚙️ whoami
+## ⚙️ tech stack
 
 - 🚀 DevOps (CI/CD • Docker • Kubernetes • AWS - learning)
 - 🧠 Backend (Node.js • REST APIs)
