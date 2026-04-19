@@ -27,15 +27,6 @@ I enjoy working close to the system level — from Linux environments to applica
 
 ---
 
-## 📈 current goals
-
-- Improve understanding of Kubernetes (CKA path)  
-- Learn infrastructure concepts (networking, scaling, reliability)  
-- Strengthen backend fundamentals and API design  
-- Move towards real-world DevOps project setups  
-
----
-
 ## 📡 ping
 
 - 💻 https://github.com/ameykorde
