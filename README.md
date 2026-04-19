@@ -1,22 +1,42 @@
 <h1>Hello 👋</h1>
 
-I’m Amey Korde
+I'm Amey Korde
 
-I’m a software developer who enjoys building and maintaining real-world applications using Java and modern web technologies. I like backend-heavy work, clean APIs, and improving systems step by step.
-
----
-
-## $ whoami
-
-- 💼 Software Developer  
-- 🧠 Backend & full-stack fundamentals  
-- 🛠 Java • React • Node.js  
-- 🗄 PostgreSQL • MySQL • MongoDB  
-- 🐧 Linux
+I focus on DevOps and backend development, with an interest in building reliable systems and improving how applications are deployed and managed.  
+I enjoy working close to the system level — from Linux environments to application deployment workflows.
 
 ---
 
-## $ ping
+## ⚙️ whoami
 
-- 💻 https://github.com/ameykorde  
+- 🚀 DevOps (CI/CD • Docker • Kubernetes • AWS - learning)
+- 🧠 Backend (Node.js • REST APIs)
+- 🎨 Frontend (React - basic integration)
+- 🗄️ Databases (PostgreSQL • MySQL)
+- 🐧 Linux (daily usage, terminal-driven workflow)
+
+---
+
+## 🔧 what I work on
+
+- Creating and managing simple CI/CD pipelines  
+- Containerizing applications using Docker  
+- Learning Kubernetes fundamentals and deployment concepts  
+- Building backend services and connecting them with frontend apps  
+- Working with Linux systems for development and debugging  
+
+---
+
+## 📈 current goals
+
+- Improve understanding of Kubernetes (CKA path)  
+- Learn infrastructure concepts (networking, scaling, reliability)  
+- Strengthen backend fundamentals and API design  
+- Move towards real-world DevOps project setups  
+
+---
+
+## 📡 ping
+
+- 💻 https://github.com/ameykorde
 - 📫 ameykorde1@gmail.com
