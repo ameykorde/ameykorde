@@ -27,7 +27,8 @@ I enjoy working close to the system level — from Linux environments to applica
 
 ---
 
-## 📡 ping
+### 📡 Connect with Me
 
-- 💻 https://github.com/ameykorde
-- 📫 ameykorde1@gmail.com
+* 💻 GitHub: [https://github.com/ameykorde](https://github.com/ameykorde)
+* 📫 Email: [ameykorde1@gmail.com](mailto:ameykorde1@gmail.com)
+* 🔗 LinkedIn: [https://www.linkedin.com/in/amey-korde-84266a220](https://www.linkedin.com/in/amey-korde-84266a220)
